@@ -32,6 +32,7 @@ Negative numbers and duplicate numbers can and will appear.
 NOTE: There will also be lists tested of lengths upwards of 10,000,000 elements. Be sure your code doesn't time out.
 '''
 
+# ---start-of-solution---
 
 # My Solution:
     
