@@ -28,3 +28,13 @@ def starts_with(st, prefix):
         return False
     else:
         return False
+    
+# Best solution
+def starts_with(st, prefix): 
+    return st.startswith(prefix)
+
+# Second best solution
+def starts_with(st, prefix): 
+    return 1 if st[:len(prefix)] == prefix else 0
+    
+    
