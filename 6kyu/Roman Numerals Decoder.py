@@ -26,7 +26,7 @@ Example:'''
 
 # ----start of solution----
 
-# Time: 560ms Passed: 98Failed: 9Exit Code: 1
+# Time: 560ms Passed: 98, Failed: 9, Exit Code: 1
 # Work in progress
 
 roman_dict = {
